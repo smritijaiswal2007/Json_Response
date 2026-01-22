@@ -9,6 +9,7 @@ def json_response(req):
     #     'active3' : None,   
     # }
     data = 30
+    data1 = 50
     # data = True (only set and frozen set datatype cannot be send in json )
     # data = None
     # data = [ 10,20,20,40,] list 
